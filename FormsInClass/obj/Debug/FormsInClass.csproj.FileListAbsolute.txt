@@ -1,0 +1,10 @@
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\bin\Debug\FormsInClass.exe.config
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\bin\Debug\FormsInClass.exe
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\bin\Debug\FormsInClass.pdb
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\obj\Debug\FormsInClass.csproj.AssemblyReference.cache
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\obj\Debug\FormsInClass.Form1.resources
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\obj\Debug\FormsInClass.Properties.Resources.resources
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\obj\Debug\FormsInClass.csproj.GenerateResource.cache
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\obj\Debug\FormsInClass.csproj.CoreCompileInputs.cache
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\obj\Debug\FormsInClass.exe
+C:\Users\SharperEar\source\repos\FormsInClass\FormsInClass\obj\Debug\FormsInClass.pdb
